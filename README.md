@@ -10,6 +10,7 @@ Services + Tools in use:
 - AWS DynamoDB (NoSQL Database)
 - AWS S3 (Hosting & File Uploads)
 - Cloudfront (Serving out the Application)
+- AWS Amplify
 - Route 53 (Domain)
 - AWS Certificate Manager (SSL)
 - AWS CloudWatch (Lambda & API access laws)
